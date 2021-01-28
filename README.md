@@ -22,7 +22,7 @@ Si vous ne savez pas quoi faire, vous pouvez toujours commencer avec ce petit co
 		<h5>Titre tout petit pour un titre</h5>
 		<br/>
 		<a href="https://google.com"/>Un exemple de lien vers google (et non, je n'ai pas d'actions de chez google !)</a>
-</body>
+	</body>
 </html>
 ```
 
