@@ -25,6 +25,8 @@ Si vous ne savez pas quoi faire, vous pouvez toujours commencer avec ce petit co
 	</body>
 </html>
 ```
+Et ce qu'il donne dans un navigateur, c'est [par ici](http://bitcoinshell.mooo.com/users/yanis/html-help/base-template.html)
+
 
 ## Quelques listes
 ### Une liste avec numeros de ligne
@@ -34,6 +36,8 @@ Si vous ne savez pas quoi faire, vous pouvez toujours commencer avec ce petit co
   <li>Un autre element</li>
 </ol>
 ```
+[Affichage navigateur](http://bitcoinshell.mooo.com/users/yanis/html-help/liste-numero.html)
+
 
 ### Une liste à puce (sans numéros)
 ```html
@@ -42,3 +46,4 @@ Si vous ne savez pas quoi faire, vous pouvez toujours commencer avec ce petit co
   <li>Un autre element</li>
 </ul>
 ```
+[Affichage navigateur](http://bitcoinshell.mooo.com/users/yanis/html-help/liste-puces.html)
